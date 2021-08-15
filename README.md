@@ -1,1 +1,1 @@
-# idris_sandbox
+# sandbox-idris
